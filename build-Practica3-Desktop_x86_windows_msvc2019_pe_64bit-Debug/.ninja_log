@@ -1,0 +1,22 @@
+# ninja log v5
+3	1476	729635998	Practica3_autogen/timestamp	5b5245c64027e7ae
+1479	9658	729636006	CMakeFiles/Practica3.dir/Practica3_autogen/mocs_compilation.cpp.obj	4f8feca2e396f7f3
+1487	9670	729636006	CMakeFiles/Practica3.dir/main.cpp.obj	29a2a184f604f4c0
+1498	9724	729636007	CMakeFiles/Practica3.dir/mainwindow.cpp.obj	8d5437cd6cfda3b7
+9725	11570	729636008	Practica3.exe	ee49cee007a607b0
+16	1803	729644921	Practica3_autogen/timestamp	5b5245c64027e7ae
+1805	8663	729644928	CMakeFiles/Practica3.dir/Practica3_autogen/mocs_compilation.cpp.obj	4f8feca2e396f7f3
+1839	8911	729644928	CMakeFiles/Practica3.dir/main.cpp.obj	29a2a184f604f4c0
+8	6565	729644951	CMakeFiles/Practica3.dir/mainwindow.cpp.obj	8d5437cd6cfda3b7
+6566	7295	729644952	Practica3.exe	ee49cee007a607b0
+8	7261	729645400	CMakeFiles/Practica3.dir/mainwindow.cpp.obj	8d5437cd6cfda3b7
+7261	8066	729645400	Practica3.exe	ee49cee007a607b0
+7	6523	729645907	CMakeFiles/Practica3.dir/mainwindow.cpp.obj	8d5437cd6cfda3b7
+6524	7461	729645908	Practica3.exe	ee49cee007a607b0
+9	6441	729646095	CMakeFiles/Practica3.dir/mainwindow.cpp.obj	8d5437cd6cfda3b7
+6442	7062	729646096	Practica3.exe	ee49cee007a607b0
+8	6463	729646212	CMakeFiles/Practica3.dir/mainwindow.cpp.obj	8d5437cd6cfda3b7
+6464	7089	729646212	Practica3.exe	ee49cee007a607b0
+6	225	729646545	Practica3_autogen/timestamp	5b5245c64027e7ae
+226	3691	729646549	CMakeFiles/Practica3.dir/Practica3_autogen/mocs_compilation.cpp.obj	4f8feca2e396f7f3
+3692	4131	729646549	Practica3.exe	ee49cee007a607b0
